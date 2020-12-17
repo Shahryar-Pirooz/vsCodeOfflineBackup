@@ -1,4 +1,4 @@
-# vsCodeOfflineBackup
+# vsCode Offline Backup
 This is a bash that creates a backup of vsCode.
 ## Install
 For installation you just have to clone the file on your system and run it with the bash command.
